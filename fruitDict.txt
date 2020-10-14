@@ -1,0 +1,6 @@
+key	value
+apples	6
+pears	3
+oranges	9
+watermelons	1
+waxberry	4
